@@ -1,0 +1,3 @@
+/home/kameron/repos/design-patterns/ThreadPool/build/CMakeFiles/ThreadPoolExample.dir
+/home/kameron/repos/design-patterns/ThreadPool/build/CMakeFiles/edit_cache.dir
+/home/kameron/repos/design-patterns/ThreadPool/build/CMakeFiles/rebuild_cache.dir
